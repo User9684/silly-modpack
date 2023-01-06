@@ -376,6 +376,11 @@ hash = "691572380abfd6edadcf677fe084e1c77187c1f15c2da81a8ed8d1c721469872"
 metafile = true
 
 [[files]]
+file = "mods/storage-drawers.pw.toml"
+hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
 metafile = true
