@@ -46,16 +46,6 @@ hash = "205715eb4065067c893c0e77df3c207f4aea7259bee8233aed7a39ee4a6f0e4c"
 metafile = true
 
 [[files]]
-file = "mods/assemblylinemachines.pw.toml"
-hash = "d11b72217794d4b0e36f06885c007dd98adebc26e38db64399c49501f58a869a"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "2bb48f014676f08d8a46749c72907ae3d466d4476818186885ae49619250644b"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "318cba400570029b2a5a42b37b3402794c5993b49828ea738d5e98e7aa1a2a52"
 metafile = true
@@ -97,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
@@ -166,11 +156,6 @@ hash = "8502f1c79c8073287e9657a548b947bed4730dc98b53465ce49ef93c9ac0f337"
 metafile = true
 
 [[files]]
-file = "mods/edivadlib.pw.toml"
-hash = "38d1fd4c49da8da6251c0a481e8f93ff06430f227411d214c66b5a397753e3e8"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "32919ba2d15d55cec37bc8759064e1983e9a917c3ccfe25c4ad880cbf0a7026b"
 metafile = true
@@ -178,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
-metafile = true
-
-[[files]]
-file = "mods/extra-disks.pw.toml"
-hash = "fa71fee27ddbe8c9fcad5554629334a4692157a5c43b91d2cd8e67e4bf87c484"
 metafile = true
 
 [[files]]
@@ -218,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "d57b357ea70739175784679c99bf3ca541710cd84c6089485bec6af8e1f49357"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ranks-forge.pw.toml"
-hash = "ac96aa37b91be1c2a34ea7242cded483e4325aeba8642b3a55e60292e9e443e1"
 metafile = true
 
 [[files]]
@@ -266,18 +241,8 @@ hash = "6ff6c6f7ac13d180205a5eade4735371d38d7e92853a5cd32dfec5544ee672aa"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "595c00e6f8965618fec09388fabf557eea9c862db818b55e5e13e550a785045f"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "d673098f8970c1882fba317165683a616400e53145fe619d5944af8fdeb9976b"
-metafile = true
-
-[[files]]
-file = "mods/longer-login-times.pw.toml"
-hash = "96c0f0fbac4257ec279efa5c75de234dccc2a24a905aab09a98eb411629e330e"
 metafile = true
 
 [[files]]
@@ -307,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
 
 [[files]]
@@ -423,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+metafile = true
+
+[[files]]
+file = "mods/theurgy.pw.toml"
+hash = "a9733fc6ab2c745bb3f3a205f0efd304cffa0a8184524259e9cbee2ee32729a9"
 metafile = true
 
 [[files]]
