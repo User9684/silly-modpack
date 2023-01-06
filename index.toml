@@ -101,6 +101,11 @@ hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
+metafile = true
+
+[[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "7971f754cb848a2b0b339cb93753d2cbc4c9eddb9259dda8d04ebf28fc80740d"
 metafile = true
@@ -326,6 +331,11 @@ hash = "0b2704b5b3e727946827614c6852073fc01478a770f345281842dff6cec79496"
 metafile = true
 
 [[files]]
+file = "mods/plushie-mod.pw.toml"
+hash = "30979ccf62942a319106719be2de497a259b90991872f1d6cfce390965ad181a"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "5617cd09c1156295c3dcb279c1f68db0edad1e6233906f54f845480f748376fe"
 metafile = true
@@ -376,8 +386,18 @@ hash = "191ef8604adf7a431069eed8dc025f1431e97065d8141a2a4d5e488fc4c10640"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "cfeb7bc1cda3b23fd72d5ff7b96ecd18604f0c6e22c56aae3c42942a2951ff8b"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "ea9c81ef618e5b7189dafd23aae5fd615348486261111697be25023df5f6fdb5"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "cee442f49af5e7dff8864457075e0bcc87837f2325eb5d2c0a3f9dc1777a4d6a"
 metafile = true
 
 [[files]]
@@ -401,6 +421,11 @@ hash = "c98a74ef1e060fbdeff0df13b8fac7b3f03a030b8571d7d30e427f6da05f42ca"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "6db1628579ca5c69295fe54cadf93f1fcc387c808728d311466c36571904285f"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
 metafile = true
@@ -418,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack.pw.toml"
+hash = "4330818b0f5d662790ab7c6e95d849af1fe366e00f2544c35064b376e5e964a3"
 metafile = true
 
 [[files]]
