@@ -46,6 +46,11 @@ hash = "205715eb4065067c893c0e77df3c207f4aea7259bee8233aed7a39ee4a6f0e4c"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "2bb48f014676f08d8a46749c72907ae3d466d4476818186885ae49619250644b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "318cba400570029b2a5a42b37b3402794c5993b49828ea738d5e98e7aa1a2a52"
 metafile = true
@@ -288,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "5be0ab3c6414eca0fedb13ddbda9d179cac43929f5f3bd6df441261746234a3b"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go.pw.toml"
-hash = "4221758ee252138abac7d700738b72fe50baaa698b4e95d7ef5e35c71260ecd5"
 metafile = true
 
 [[files]]
