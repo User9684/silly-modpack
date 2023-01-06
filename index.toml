@@ -46,6 +46,11 @@ hash = "205715eb4065067c893c0e77df3c207f4aea7259bee8233aed7a39ee4a6f0e4c"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "f094bca8f5d15e36dfc6d3e269d3524a6fea6fb67611d00605319c7eaaacf83e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bb48f014676f08d8a46749c72907ae3d466d4476818186885ae49619250644b"
 metafile = true
@@ -408,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
 metafile = true
 
 [[files]]
