@@ -276,6 +276,11 @@ hash = "d673098f8970c1882fba317165683a616400e53145fe619d5944af8fdeb9976b"
 metafile = true
 
 [[files]]
+file = "mods/longer-login-times.pw.toml"
+hash = "96c0f0fbac4257ec279efa5c75de234dccc2a24a905aab09a98eb411629e330e"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "f06ae2c55e9ea3ac2da144c4f96a4dfb7368a3c331454dcfae3f0bda1b7513bf"
 metafile = true
