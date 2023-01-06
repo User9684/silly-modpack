@@ -1,0 +1,13 @@
+name = "Double Doors (Forge)"
+filename = "doubledoors_1.19.2-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cab010386c36d2ef9c7e6952be5e0b900913fefb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920933
+project-id = 348831

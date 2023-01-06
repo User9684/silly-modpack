@@ -1,0 +1,13 @@
+name = "Silly Modpack"
+author = "Sillycat"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b4535a930f1c5b81f431867608a802653c0d0f3a0711cdbeb997887e1ce15192"
+
+[versions]
+forge = "43.2.0"
+minecraft = "1.19.2"
