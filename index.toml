@@ -469,7 +469,3 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "0f777c428a4899af281ecec4b01970d928a5004f54623c6da7bd2bd807d2cfe6"
 metafile = true
-
-[[files]]
-file = "readme.md"
-hash = "0cbb456b735a812360f80df8414e1eedd5719739bcb5c6bf119536d392350c29"
