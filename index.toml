@@ -256,6 +256,11 @@ hash = "9fdd9d08a36dea8abcf8c0bdea42740685f3baa2e48e0d81ce73169cbf6af05e"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "e6bf91c0f22f70ae04937c27809dccf3903c21a6175b4d77ef8fe7c6f4f7ff5e"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
 metafile = true
