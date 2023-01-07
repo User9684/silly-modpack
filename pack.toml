@@ -1,6 +1,6 @@
 name = "Silly Modpack"
 author = "Sillycat"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "96934002f5641ad0fc592975be137bcf97ed980815d6290876a4ae7ea8bff87c"
 
 [versions]
-forge = "43.2.0"
+forge = "43.2.3"
 minecraft = "1.19.2"
