@@ -231,6 +231,11 @@ hash = "d4627d3a68f09d898fdbd4ea6d0f6a46c88e75c78cb13315b52857d89b7db5de"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "17ecbb5097f566a8815c72ec5da85a79918d28cadd0c32dc459112c70ab4bd90"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "51e05515802ccae4de0c6e2f201ed1dd91500c5cea281d1185265e5168270906"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing.pw.toml"
 hash = "9fdd9d08a36dea8abcf8c0bdea42740685f3baa2e48e0d81ce73169cbf6af05e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "0b2c570acfd6375e2aa8f649cb26384cf1194e9966dd8c7d2df04399a071f53c"
 metafile = true
 
 [[files]]
@@ -408,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "691572380abfd6edadcf677fe084e1c77187c1f15c2da81a8ed8d1c721469872"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "11332954f108106789ad818138a9b6ee0dd169a92b8763ae35d2d9ce88815c23"
 metafile = true
 
 [[files]]
