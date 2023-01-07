@@ -421,6 +421,11 @@ hash = "276bded4eb429e96c2e59eeb9a007d8bcbf6e62443f72f43125d22aa2778ec7c"
 metafile = true
 
 [[files]]
+file = "mods/sleeping-bags.pw.toml"
+hash = "325b4b5af10dea9e945c6c17eb71e23f0f527294d2961f19aaa63a454b683f3a"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "691572380abfd6edadcf677fe084e1c77187c1f15c2da81a8ed8d1c721469872"
 metafile = true
