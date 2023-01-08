@@ -316,6 +316,11 @@ hash = "0ffbd6ea67b31857422d1987060a0211a16fbcc3d4c15ebe9a946cbdca217005"
 metafile = true
 
 [[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "678aeeae6f993ca08ef2ba4a6587a590571ecccb2a46d9f64cd8211dae94abea"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "a5a936853fbec55e0de82a731000989c041374bbd700afd9bc2723588b7071c7"
 metafile = true
