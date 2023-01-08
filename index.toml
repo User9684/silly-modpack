@@ -176,6 +176,16 @@ hash = "8502f1c79c8073287e9657a548b947bed4730dc98b53465ce49ef93c9ac0f337"
 metafile = true
 
 [[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "ba0b1559cf7a01d65af4088ae19db4f81a4def903aa9b983ca0b6246dde5cb65"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "706799db60fb471753f9a40627dc6af717ffedaae833dbe37b83273793e2d765"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "a85361f717c4fb68b9d7edb4d2ced55427bf5c5993fc41a29274942c14ca8e79"
 metafile = true
@@ -468,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "eb445d9519a2a81b60706da33663b2fc8201de6d486d98489a0f97fa1b0b00a9"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "82a34bca18f07e65c2e9b6317dc6b6227c32eb431df46a2a80a87b2f9a4052ea"
 metafile = true
 
 [[files]]
